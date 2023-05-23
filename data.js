@@ -45,7 +45,7 @@ var APP_DATA = {
           "yaw": 2.565239033805571,
           "pitch": 0.19184325648426004,
           "rotation": 0,
-          "target": "3-"
+          "target": "3--2"
         }
       ],
       "infoHotspots": []
@@ -95,7 +95,7 @@ var APP_DATA = {
           "yaw": -2.566272192206311,
           "pitch": 0.026152809613735784,
           "rotation": 0,
-          "target": "3-"
+          "target": "3--2"
         }
       ],
       "infoHotspots": []
@@ -139,8 +139,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-",
-      "name": "Спальня",
+      "id": "3--2",
+      "name": "Спальня 2",
       "levels": [
         {
           "tileSize": 256,
@@ -168,14 +168,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8935712277660208,
-          "pitch": 0.26938118436546077,
+          "yaw": 0.9093442693544027,
+          "pitch": 0.27436161376884804,
           "rotation": 0,
           "target": "0--"
         },
         {
-          "yaw": 0.9150790363871621,
-          "pitch": 0.019149141017340554,
+          "yaw": 0.9353086003357998,
+          "pitch": -0.032853935447096916,
           "rotation": 0,
           "target": "1-"
         }
